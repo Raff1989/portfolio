@@ -1,0 +1,38 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+.btn1 {
+
+    background-color: #3b5998;
+
+}
+
+.btn2{
+
+    background-color: #55acee;
+   
+}
+
+.btn3 {
+
+    background-color: #dd4b39;
+    
+}
+
+.btn4 {
+
+    background-color: #ac2bac;
+    
+}
+
+.btn5 {
+
+    background-color: #0082ca;
+    
+}
+
+.btn6 {
+
+    background-color: #333333;
+
+    
+}
