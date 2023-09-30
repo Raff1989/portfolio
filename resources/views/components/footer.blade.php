@@ -29,20 +29,20 @@
         <div class="row justify-content-center">
         <!--Grid column-->
           <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-            <h4 class="text-uppercase">Products</h4>
+            <h4 class="text-uppercase fw-bolder">𝓟roducts</h4>
   
             <ul class="list-unstyled mb-0">
               <li>
-                <i class="text-white"><i class="fa-brands fa-html5"> Html5</i></i>
+                <i class="text-white"><i class="fa-brands fa-html5"> 𝓗𝖙𝖒𝖑5</i></i>
               </li>
               <li>
-                <i class="text-white"><i class="fa-brands fa-css3-alt"> Css3</i></i>
+                <i class="text-white"><i class="fa-brands fa-css3-alt"> 𝓒𝐬𝐬𝟑</i></i>
               </li>
               <li>
-                <i class="text-white"><i class="fa-brands fa-square-js"> Javascript</i></i>
+                <i class="text-white"><i class="fa-brands fa-square-js"> 𝓙𝖆𝖛𝖆𝖘𝖈𝖗𝖎𝖕𝖙</i></i>
               </li>
               <li>
-                <i class="text-white"><i class="fa-brands fa-php"> Php</i></i>
+                <i class="text-white"><i class="fa-brands fa-php"> 𝓟𝓱𝓹</i></i>
               </li>
             </ul>
           </div>
@@ -50,39 +50,39 @@
   
           <!--Grid column-->
           <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-            <h4 class="text-uppercase">Framework</h4>
+            <h4 class="text-uppercase fw-bolder">𝓕ramework</h4>
   
             <ul class="list-unstyled mb-0">
               <li>
-                <a href="#!" class="text-white"><i class="fa-brands fa-laravel"> Laravel</i></a>
+                <a href="#!" class="text-white"><i class="fa-brands fa-laravel"> 𝓛𝖆𝖗𝖆𝖛𝖊𝖑</i></a>
               </li>
             </ul>
           </div>
           <!--Grid column-->
           <!--Grid column-->
           <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-            <h4 class="text-uppercase">Database</h4>
+            <h4 class="text-uppercase fw-bolder">𝓓atabase</h4>
   
             <ul class="list-unstyled mb-0">
               <li>
-                <a href="#!" class="text-white"><i class="fa-solid fa-database"> Mysql</i></a>
+                <a href="#!" class="text-white"><i class="fa-solid fa-database"> 𝓜𝔂𝓼𝓺𝓵</i></a>
               </li>
             </ul>
           </div>
           <!--Grid column-->
           <!--Grid column-->
           <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-            <h4 class="text-uppercase">Contatti</h4>
+            <h4 class="text-uppercase fw-bolder">𝓒ontatti</h4>
   
             <ul class="list-unstyled mb-0">
               <li>
-                <a href="#!" class="text-white"><i class="fa-solid fa-city"> Bisceglie (Bt)</i></a>
+                <a href="#!" class="text-white"><i class="fa-solid fa-city"> 𝕭𝖎𝖘𝖈𝖊𝖌𝖑𝖎𝖊 (𝓑𝓽)</i></a>
               </li>
               <li>
-                <a href="#!" class="text-white"><i class="fa-solid fa-envelope"> raffa_ele1989@libero.it</i></a>
+                <a href="#!" class="text-white"><i class="fa-solid fa-envelope"> 𝖗𝖆𝖋𝖋𝖆_𝖊𝖑𝖊1989@𝖑𝖎𝖇𝖊𝖗𝖔.𝖎𝖙</i></a>
               </li>
               <li>
-                <a href="#!" class="text-white"></li><i class="fa-solid fa-phone"> 3408383260</i></a>
+                <a href="#!" class="text-white"></li><i class="fa-solid fa-phone"> 𝟑𝟒𝟎𝟖𝟑𝟖𝟑𝟐𝟔𝟎</i></a>
               
             </ul>
           </div>
