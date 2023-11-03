@@ -81,3 +81,30 @@ h1 {
     background-color: #333333;    
 }
 
+/* product */
+
+
+.P1 {
+
+    font-size: 24px;
+    color: black;
+    text-align: center;
+
+}
+
+.Li1 {
+
+    font-size: 24px;
+    
+    
+
+
+}
+/* sfondo */
+
+.bd1 {
+
+    background: url(/public/images/R1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

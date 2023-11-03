@@ -14,9 +14,4 @@
             (𝓐lbert 𝓔instein)</em>
     </div>
     
-
-
-
-
-
 </x-layout>

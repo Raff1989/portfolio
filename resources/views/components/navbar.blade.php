@@ -7,10 +7,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">𝓗ome</a>
+            <a class="nav-link active" aria-current="page" href="{{Route('home')}}">𝓗ome</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">𝓟roduct</a>
+            <a class="nav-link active" aria-current="page" href="{{Route('product')}}">𝓟roduct</a>
           </li>
         </ul>
       </div>
